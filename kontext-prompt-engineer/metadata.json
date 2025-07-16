@@ -1,0 +1,5 @@
+{
+  "name": "Kontext Prompt Engineer",
+  "description": "An intelligent assistant to help users craft expert-level prompts for the FLUX.1 Kontext image editing tool, powered by Gemini.",
+  "requestFramePermissions": []
+}
